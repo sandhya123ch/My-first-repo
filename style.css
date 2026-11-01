@@ -1,0 +1,28 @@
+/* 1. Target the entire body of the webpage */
+body {
+  background-color: #f4f4f9;  /* Light gray background */
+  font-family: Arial, sans-serif; /* Clean, modern font */
+  margin: 20px;               /* Adds space around the page edges */
+}
+
+/* 2. Target all Main Headings (<h1>) */
+h1 {
+  color: #333333;             /* Dark charcoal color */
+  text-align: center;         /* Center the title */
+}
+
+/* 3. Target all Paragraphs (<p>) */
+p {
+  color: #555555;             /* Medium gray for readability */
+  font-size: 16px;            /* Sets text size */
+  line-height: 1.6;           /* Spacing between lines */
+}
+
+/* 4. Target a Class (used for specific elements) */
+.highlight-box {
+  background-color: #e2f0d9;  /* Soft green background */
+  border: 2px solid #385723;  /* Solid dark green border */
+  padding: 15px;              /* Space inside the box */
+  border-radius: 8px;         /* Rounds the corners */
+}
+
